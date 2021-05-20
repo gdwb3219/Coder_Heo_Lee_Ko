@@ -2,4 +2,4 @@
 
 ## First _ Project
 
-print("Hello, Friends!")
+Code it에서 강의로 배우고 Git Hub에 업데이트를 진행해보자!
